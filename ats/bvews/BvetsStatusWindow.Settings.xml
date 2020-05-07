@@ -5,14 +5,14 @@
   <RefleshInterval>16</RefleshInterval>
   <HighLightTime>3000</HighLightTime>
   <Topmost>false</Topmost>
-  <StateIndexWidth>98</StateIndexWidth>
-  <StateValueWidth>72</StateValueWidth>
-  <PanelIndexWidth>29</PanelIndexWidth>
-  <PanelValueWidth>25</PanelValueWidth>
-  <PanelLabelWidth>424</PanelLabelWidth>
-  <SoundIndexWidth>4</SoundIndexWidth>
-  <SoundValueWidth>8</SoundValueWidth>
-  <SoundLabelWidth>153</SoundLabelWidth>
-  <MainWindowWidth>640</MainWindowWidth>
-  <MainWindowHeight>480</MainWindowHeight>
+  <StateIndexWidth>0</StateIndexWidth>
+  <StateValueWidth>109</StateValueWidth>
+  <PanelIndexWidth>551</PanelIndexWidth>
+  <PanelValueWidth>485</PanelValueWidth>
+  <PanelLabelWidth>4049</PanelLabelWidth>
+  <SoundIndexWidth>0</SoundIndexWidth>
+  <SoundValueWidth>0</SoundValueWidth>
+  <SoundLabelWidth>2002</SoundLabelWidth>
+  <MainWindowWidth>1296</MainWindowWidth>
+  <MainWindowHeight>1040</MainWindowHeight>
 </CSettings>
