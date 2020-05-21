@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><XnView_script version="1.0" name="bc200-400">
-    <Crop method="0" value_1="200" value_2="712" value_3="568" value_4="284"/>
-    <Resize mode="6" width="256" height="64" unit="0" ratio="false" orientation="false" enlarge="0" resample="7" gamma_correct="false"/>
+<?xml version="1.0" encoding="UTF-8"?><XnView_script version="1.0" name="speed-left">
+    <Crop method="0" value_1="470" value_2="132" value_3="650" value_4="650"/>
+    <Resize mode="6" width="256" height="256" unit="0" ratio="false" orientation="false" enlarge="0" resample="7" gamma_correct="false"/>
     <Output folder="" filename="{Filename}_lanczos" case="0" startIndex="1">
         <Options overwrite="1" orgDate="false" keepMeta="true" keepICC="false" keepFolder="false" keepParentFolder="false" keepExtension="true" delOrg="false" multipage="false" allPages="false" openExplorer="false" openBrowser="false" clearItems="false"/>
         <JPEG quality="80" progressive="false" optimizeHuffman="false" rebuildThumb="true" orgQuality="false" DCTMethod="0" subSampling="0" smoothFactor="0"/>
