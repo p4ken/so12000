@@ -6,8 +6,8 @@ ResetTime
 CurrentReducingTime
 JerkRegulation_Up
 JerkRegulation_Down
-RequiredNotch_Up
-RequiredNotch_Down
+RequiredNotch_Up,0
+RequiredNotch_Down,1
 StepDelay_Up
 StepDelay_Down
 CurrentLimitingValue_Empty
