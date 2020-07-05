@@ -5,4 +5,5 @@ ct\ATSP.dll
 ct\TIMS_E233.dll
 unicorn\ATS_SO.dll
 p4ken\Buzzer.dll
+p4ken\Acceleration.dll
 #bvews\BvetsStatusWindow.dll
