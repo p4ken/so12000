@@ -1,6 +1,6 @@
-Rock_On\ATSN.dll
-Rock_On\DIR.dll
-Rock_On\Conductor.dll
+..\..\..\GeneralAtsPlugin\Rock_On\ATSN.dll
+..\..\..\GeneralAtsPlugin\Rock_On\DIR.dll
+..\..\..\GeneralAtsPlugin\Rock_On\Conductor.dll
 ct\ATSP.dll
 ct\TIMS_E233.dll
 unicorn\ATS_SO.dll
