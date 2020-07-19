@@ -1,9 +1,10 @@
 ..\..\..\..\..\GeneralAtsPlugin\Rock_On\ATSN.dll
 ..\..\..\..\..\GeneralAtsPlugin\Rock_On\DIR.dll
 ..\..\..\..\..\GeneralAtsPlugin\Rock_On\Conductor.dll
-..\..\CT\ATSP.dll
-..\..\CT\TIMS_E233.dll
+..\..\CT\ATSP_200216\plugin\ATSP.dll
+..\..\CT\TIMS_E233_200428\Plugin\TIMS_E233.dll
 ..\..\Unicorn\ATS_SO.dll
 Buzzer.dll
 Acceleration.dll
+..\..\CT\CONDUCTOR_200624\dll_x86\CONDUCTOR.dll
 #bvews\BvetsStatusWindow.dll
