@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><XnView_script version="1.0" name="パネルデバッグ用画像_2x">
+    <Zealous_crop method="0" position="0" color="#ffffff" tolerance="0" direction="15"/>
+    <Crop method="0" value_1="0" value_2="0" value_3="80" value_4="320"/>
+    <Resize mode="0" width="64" height="256" unit="0" ratio="false" orientation="false" enlarge="0" resample="7" gamma_correct="false"/>
+    <Output folder="" filename="{Filename}_lanczos_2x" case="0" startIndex="1" format="PNG">
+        <Options overwrite="1" orgDate="false" keepMeta="true" keepICC="false" keepFolder="false" keepParentFolder="false" keepExtension="true" delOrg="false" multipage="false" allPages="false" openExplorer="false" openBrowser="false" clearItems="false"/>
+        <PNG level="6" interlaced="false" filter="0"/>
+    </Output>
+</XnView_script>
