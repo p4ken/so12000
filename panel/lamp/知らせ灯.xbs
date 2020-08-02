@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><XnView_script version="1.0" name="知らせ灯">
+    <Zealous_crop method="0" position="0" color="#ffffff" tolerance="0" direction="15"/>
+    <Replace_color src_color="#ffffff" dst_color="#ffffff" tolerance="100" active="false"/>
+    <Resize mode="0" width="128" height="128" unit="0" ratio="false" orientation="false" enlarge="0" resample="0" gamma_correct="false"/>
+    <Output folder="" filename="{Filename}_nearest_2x" case="0" startIndex="1" format="BMP">
+        <Options overwrite="0" orgDate="false" keepMeta="true" keepICC="false" keepFolder="false" keepParentFolder="false" keepExtension="true" delOrg="false" multipage="false" allPages="false" openExplorer="false" openBrowser="false" clearItems="false"/>
+        <BMP compress="false" hdrOS2="false"/>
+    </Output>
+</XnView_script>

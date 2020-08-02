@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><XnView_script version="1.0" name="各車">
+    <Zealous_crop method="1" position="0" color="#000000" tolerance="0" direction="15"/>
+    <Canvas_resize width="160" height="320" unit="0" relative="false" ratio="true" orientation="false" color="#364048" alpha="255" position="1"/>
+    <Resize mode="5" width="128" height="600" unit="0" ratio="true" orientation="false" enlarge="0" resample="7" gamma_correct="false"/>
+    <Output folder="" filename="{Filename}_lanczos_2x" case="0" startIndex="1" format="PNG">
+        <Options overwrite="0" orgDate="false" keepMeta="true" keepICC="false" keepFolder="false" keepParentFolder="false" keepExtension="true" delOrg="false" multipage="false" allPages="false" openExplorer="false" openBrowser="false" clearItems="false"/>
+        <PNG level="6" interlaced="false" filter="0"/>
+    </Output>
+</XnView_script>

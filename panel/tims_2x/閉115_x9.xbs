@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><XnView_script version="1.0" name="閉115_x9">
+    <Crop method="0" value_1="0" value_2="0" value_3="1024" value_4="64"/>
+    <Output folder="" filename="{Filename}_trim" case="0" startIndex="1" format="PNG">
+        <Options overwrite="1" orgDate="false" keepMeta="true" keepICC="false" keepFolder="false" keepParentFolder="false" keepExtension="true" delOrg="false" multipage="false" allPages="false" openExplorer="false" openBrowser="false" clearItems="false"/>
+        <PNG level="6" interlaced="false" filter="0"/>
+    </Output>
+</XnView_script>
