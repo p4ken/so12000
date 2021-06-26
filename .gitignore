@@ -1,3 +1,5 @@
+*.dll
+!/ats/p4ken/*/*.dll
 *.jpg
 *.Settings.xml
 *.sfk
