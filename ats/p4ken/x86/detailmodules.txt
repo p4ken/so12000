@@ -7,4 +7,5 @@
 ..\..\p4ken\x86\Acceleration.dll
 ..\..\p4ken\x86\Silent.dll
 ..\..\p4ken\x86\Buzzer.dll
+..\..\e233tims\Plugin\x86\TIMS_Communicator.dll
 #bvews\BvetsStatusWindow.dll
